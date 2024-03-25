@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordPuzzle", "WordPuzzle\WordPuzzle.csproj", "{D70A897B-F3CD-49B9-8D3B-641D0DAF3EFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPuzzle.Tests", "WordPuzzle.Tests\WordPuzzle.Tests.csproj", "{2A942599-850D-49CA-A9EE-56E893DDEA7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D70A897B-F3CD-49B9-8D3B-641D0DAF3EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70A897B-F3CD-49B9-8D3B-641D0DAF3EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70A897B-F3CD-49B9-8D3B-641D0DAF3EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70A897B-F3CD-49B9-8D3B-641D0DAF3EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A942599-850D-49CA-A9EE-56E893DDEA7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A942599-850D-49CA-A9EE-56E893DDEA7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A942599-850D-49CA-A9EE-56E893DDEA7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A942599-850D-49CA-A9EE-56E893DDEA7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05ACC0BB-8553-4E91-BC16-06ED30B5D87F}
+	EndGlobalSection
+EndGlobal
