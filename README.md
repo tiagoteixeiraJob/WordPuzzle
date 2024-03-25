@@ -8,7 +8,6 @@ This program is created to solve a word puzzle following this steps:
     - Come up list of words that move from the StartWord to the EndWord.
     - Only one letter can change between any two words.
     - Each intermediate step should be a word from the dictionary file.
-    - Write list of words that move from the StartWord to the EndWord in a new text file.
 ```
 
 # Example
